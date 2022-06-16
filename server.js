@@ -261,7 +261,7 @@ app.get('/discography/:album', (request, response)=> {
     }
 })
 
-app.get('/album/spice/:track', (request, response)=> {
+app.get('/album/first/:track', (request, response)=> {
     const trackNumber= request.params.track.toLowerCase()
     if (spice[trackNumber]){
         response.json(spice[trackNumber])
@@ -269,7 +269,7 @@ app.get('/album/spice/:track', (request, response)=> {
         response.json(unknown)
     }
 })
-app.get('/album/spiceworld/:track', (request, response)=> {
+app.get('/album/second/:track', (request, response)=> {
     const trackNumber= request.params.track.toLowerCase()
     if (spiceworld[trackNumber]){
         response.json(spiceworld[trackNumber])
@@ -278,7 +278,7 @@ app.get('/album/spiceworld/:track', (request, response)=> {
     }
 })
 
-app.get('/album/forever/:track', (request, response)=> {
+app.get('/album/third/:track', (request, response)=> {
     const trackNumber= request.params.track.toLowerCase()
     if (forever[trackNumber]){
         response.json(forever[trackNumber])
