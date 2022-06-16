@@ -71,50 +71,61 @@ const discography={
     'track_01':{	
         'trackTitle':'Wannabe',
         'trackLenght':'02:52',
+        'videoUrl': 'https://www.youtube.com/watch?v=gJLIiF15wjQ'
         },	
                 
     'track_02':{	
         'trackTitle': "Say You'll Be There",
-        'trackLenght':'03:56'
+        'trackLenght':'03:56',
+        'videoUrl': 'https://www.youtube.com/watch?v=9ro0FW9Qt-4'
         },
         
     'track_03':{	
         'trackTitle':'2 Become 1',
-        'trackLenght':'04:00'
+        'trackLenght':'04:00',
+        'videoUrl': 'https://www.youtube.com/watch?v=FA5jsa1lR9c'
         },
         
     'track_04':{	
         'trackTitle':'Love Thing',
-        'trackLenght':'03:37'
+        'trackLenght':'03:37',
+        'videoUrl': 'https://youtu.be/6ifMthurwe8'
         },
             
     'track_05':{	
         'trackTitle':'Last Time Lover',
-        'trackLenght':'04:11'
+        'trackLenght':'04:11',
+        'videoUrl': 'https://youtu.be/2XBWbolukMA'
         },	
             
     'track_06':{	
         'trackTitle':'Mama',
-        'trackLenght':'05:03'
+        'trackLenght':'05:03',
+        'videoUrl': 'https://youtu.be/VsNbhwSXDB8'
         },
             
     'track 07':{	
         'trackTitle':'Who Do You Think You Are',
-        'trackLenght':'03:59'
+        'trackLenght':'03:59',
+        'videoUrl': 'https://youtu.be/-YriinrRGug'
         },
             
     'track 08':{	
         'trackTitle':'Something Kinda Funny',
-        'trackLenght':'04:02'
+        'trackLenght':'04:02',
+        'videoUrl': 'https://youtu.be/_AJJoHzEZm0'
         },
             
     'track_09':{	
         'trackTitle':'Naked',
-        'trackLenght':'04:25'
+        'trackLenght':'04:25',
+        'videoUrl': 'https://youtu.be/PWyLqqqCb1U'
         },	
+
     'track_10':{	
         'trackTitle':"If U Can't Dance",
-        'trackLenght':'03:58'
+        'trackLenght':'03:58',
+        'videoUrl': 'https://youtu.be/_PbcgC1t9oY'
         },
      'unknown':{
         '0':'not a track'
@@ -124,52 +135,62 @@ const discography={
  const spiceworld={
     'track_01':{	
         'trackTitle':'Spice Up Your Life',
-        'trackLenght':'02:54'
+        'trackLenght':'02:54',
+        'videoUrl': 'https://youtu.be/s_J-RVWhJHU'
         },		
         
     'track_02':{	
         'trackTitle':'Stop',
-        'trackLenght':'03:24'
+        'trackLenght':'03:24',
+        'videoUrl': 'https://youtu.be/5JD6ejmlpa8'
         },	
         
     'track_03':{	
         'trackTitle':'Too Much',
-        'trackLenght':'04:31'
+        'trackLenght':'04:31',
+        'videoUrl': 'https://youtu.be/_4VoZ6afztc'
         },		
         
     'track_04':{	
         'trackTitle':'Saturday Night Divas',
-        'trackLenght':'04:26'
+        'trackLenght':'04:26',
+        'videoUrl': 'https://youtu.be/oYfk7ps1YYs'
         },		
             
     'track_05':{	
         'trackTitle':'Never Give Up on the Good Times',
-        'trackLenght':'04:30'
+        'trackLenght':'04:30',
+        'videoUrl': 'https://youtu.be/oXnTeUsgBoY'
         },
         
     'track_06':{	
         'trackTitle':'Move Over',
-        'trackLenght':'02:45'
+        'trackLenght':'02:45',
+        'videoUrl': 'https://youtu.be/jpDwwlVYCFI'
         },	
             
     'track_07':{	
         'trackTitle':'Do It',
-        'trackLenght':'04:04'
+        'trackLenght':'04:04',
+        'videoUrl': 'https://youtu.be/Qn02Hl8i7g0'
         },
             
     'track_08':{	
         'trackTitle':'Denying',
-        'trackLenght':'03:47'
+        'trackLenght':'03:47',
+        'videoUrl': 'https://youtu.be/WsTouxzdtgg'
         },	
         
     'track_09':{	
         'trackTitle':'Viva Forever',
-        'trackLenght':'05:10'
+        'trackLenght':'05:10',
+        'videoUrl': 'https://youtu.be/3wkuqRFXNvI'
         },		
             
     'track_10':{	
         'trackTitle':'The Lady Is a Vamp',
-        'trackLenght':'03:09'
+        'trackLenght':'03:09',
+        'videoUrl': 'https://youtu.be/FPRumXQLteg'
         },
         'unknown':{
             '0':'not a track'
@@ -179,57 +200,68 @@ const discography={
 const forever={
     'track_01':{	
         'trackTitle':'Holler',
-        'trackLenght':'04:15'
+        'trackLenght':'04:15',
+        'videoUrl': 'https://youtu.be/v1MTKS-1OHU'
         },
             
     'track_02':{	
         'trackTitle':'Tell Me Why',
-        'trackLenght':'04:14'
+        'trackLenght':'04:14',
+        'videoUrl': 'https://youtu.be/Qe_LyvBrDMI'
         },
         
     'track_03':{	
         'trackTitle':'Let Love Lead the Way',
-        'trackLenght':'04:58'
+        'trackLenght':'04:58',
+        'videoUrl': 'https://youtu.be/RtczIm5XrNo'
         },	
         
     'track_04':{	
         'trackTitle':'Right Back at Ya',
-        'trackLenght':'04:10'
+        'trackLenght':'04:10',
+        'videoUrl': 'https://youtu.be/vH8eX0ZSZp0'
         },	
             
     'track_05':{	
         'trackTitle':'Get Down with Me',
-        'trackLenght':'03:46'
+        'trackLenght':'03:46',
+        'videoUrl': 'https://youtu.be/VzDh3KGxeeg'
         },
             
     'track_06':{	
         'trackTitle':'Wasting My Time',
-        'trackLenght':'04:14'
+        'trackLenght':'04:14',
+        'videoUrl': 'https://youtu.be/7Cr5YZYa87k'
         },
         
     'track_07':{	
         'trackTitle':'Weekend Love',
-        'trackLenght':'04:06'
+        'trackLenght':'04:06',
+        'videoUrl': 'https://youtu.be/JkiOmyaMhAw'
         },
             
     'track_08':{	
         'trackTitle':'Time Goes By',
-        'trackLenght':'04:51'
+        'trackLenght':'04:51',
+        'videoUrl': 'https://youtu.be/OnNo8cGklxc'
         },
             
     'track_09':{	
         'trackTitle':'If You Wanna Have Some Fun',
-        'trackLenght':'05:26'
+        'trackLenght':'05:26',
+        'videoUrl': 'https://youtu.be/WQkOIa6ANPA'
         },	
         
     'track_10':{	
         'trackTitle':'Oxygen',
-        'trackLenght':'04:56'
+        'trackLenght':'04:56',
+        'videoUrl': 'https://youtu.be/2m2MRk--vK8'
         },	
             
     'track_11':{	
         'trackTitle':'Goodbye',
-        'trackLenght':'07:07'
+        'trackLenght':'07:07',
+        'videoUrl': 'https://youtu.be/eegDtyrSUZw'
         },
 
     'unknown':{
@@ -287,6 +319,6 @@ app.get('/album/third/:track', (request, response)=> {
     }
 })
 
-app.listen(PORT, ()=>{
-    console.log( `Port running on ${8000}, you better go catch it `)
+app.listen(process.env.PORT||PORT, ()=>{
+    console.log( `Port running on ${PORT}, you better go catch it `)
 })
