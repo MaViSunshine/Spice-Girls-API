@@ -48,19 +48,22 @@ const discography={
         'albumName': 'Spice',
         'albumDuration': '35:04',
         'releaseDate': '1996',
-        'albumGenre': 'Pop, Dance Pop'
+        'albumGenre': 'Pop, Dance Pop',
+        'albumCover': 'https://raw.githubusercontent.com/MaViSunshine/ImgAlbums/main/spice-album.jpg'
     },
     'second': {
         'albumName': 'Spiceworld',
         'albumDuration': '38:37',
         'releaseDate': 'November 4, 1997',
-        'albumGenre': 'Pop, Dance Pop'
+        'albumGenre': 'Pop, Dance Pop',
+        'albumCover': 'https://raw.githubusercontent.com/MaViSunshine/ImgAlbums/main/spiceworld-album.jpg'
     },
     'third': {
         'albumName': 'Forever',
         'albumDuration': '52:03',
         'releaseDate': 'November 7, 2000',
         'albumGenre': 'Pop, Dance Pop',
+        'albumCover': 'https://raw.githubusercontent.com/MaViSunshine/ImgAlbums/main/forever-album.jpg'
     },
     'unknown':{
         'error':'not an album'
