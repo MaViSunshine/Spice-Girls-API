@@ -24,3 +24,6 @@ B) You can also download the code and install express
 (and cors if you want to) and run it locally on your 
 
 computer following the instructions on the html file.
+
+----
+DEMO SITE: https://spice-girls-api-demo.netlify.app/
